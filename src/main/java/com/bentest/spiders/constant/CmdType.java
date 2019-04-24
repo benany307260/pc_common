@@ -42,4 +42,9 @@ public class CmdType {
 	 */
 	public static int CMD107 = 107;
 	
+	/**
+	 * 处理产品list页的下一页
+	 */
+	public static int CMD108 = 108;
+	
 }

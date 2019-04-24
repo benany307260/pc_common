@@ -38,6 +38,8 @@ public class AMZConstant {
 	
 	public static String CMD_KEY_HTML_FILE_PATH = "htmlFilePath";
 	
+	public static String CMD_KEY_NEXT_PAGE_URL = "nextPageUrl";
+	
 	/**
 	 * list页面的第一页
 	 */
